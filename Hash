@@ -1,0 +1,8 @@
+public class hash{
+   public static void main (string args[])
+     {
+     hash h1=new hash();
+     system.out.println("hash="+h1.hashCode());
+          }
+}
+      
